@@ -216,7 +216,7 @@ cursor:pointer;
 }
 
 .section-one{
-    padding: 120px 0;
+    padding: 188px 0;
 }
 .list-section-two{
    display: flex;
@@ -225,8 +225,13 @@ cursor:pointer;
    padding-bottom: 120px;
 }
 
+
 .elements-list{
 width: calc((100% - 72px) / 3);
+}
+
+.section-two{
+padding: 120px 0;
 }
 .main-title-section-two{
     display: flex;
@@ -352,6 +357,7 @@ text-align: center;
     column-gap: 24px;
     margin: 0;
     padding: 0;
+    
    
 }
 
@@ -435,6 +441,7 @@ padding:100px 0;
 .box-portfolio{
    padding: 32px 16px;
 border: 1px solid #e7e9fc;
+border-top: none;
     
 }
 
@@ -450,12 +457,12 @@ border: 1px solid #e7e9fc;
     
 }
 
-.container .logo-first-element{
+.logo-first-element{
     display: inline-block;
 margin-bottom: 16px;
 }
 
-.container .logo-second-element-down{
+.logo-second-element-down{
     display: inline-block;
         margin-bottom: 16px;
 }
