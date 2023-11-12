@@ -52,11 +52,11 @@ img{
     padding-top: 24px;
     padding-bottom: 24px/
 }*/
-.logo-element-up{
+/*.logo-element-up{
     display: flex;
     margin-right: 76px;
     align-items: center;
-}
+}*/
 
 
 .list-nav-menu{
@@ -90,6 +90,9 @@ font-weight: 700;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
+display: flex;
+    margin-right: 76px;
+    align-items: center;
 
 }
 
@@ -102,6 +105,7 @@ font-weight: 700;
 line-height: 1.17px;
 letter-spacing: 0.03em;
 text-transform: uppercase;
+
 }
 
 .link-nav{
