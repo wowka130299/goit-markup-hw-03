@@ -454,3 +454,8 @@ border: 1px solid #e7e9fc;
     display: inline-block;
 margin-bottom: 16px;
 }
+
+.container .logo-second-element-down{
+    display: inline-block;
+        margin-bottom: 16px;
+}
