@@ -29,6 +29,7 @@ text-decoration: none;
 
 img{
  display: block;
+ max-width: 100%;
 }
 
 ul {
@@ -45,6 +46,7 @@ ul {
 
 .header-container{
     display: flex;
+    align-items: center;
 }
 
 
@@ -231,7 +233,7 @@ cursor:pointer;
 }
 
 
-/*SECTION 1*/
+/*SECTION 2*/
 
 
 
@@ -249,10 +251,6 @@ cursor:pointer;
 .elements-list{
 width: calc((100% - 72px) / 3);
 }
-
-
-
-/*SECTION 2*/
 
 
 
@@ -485,7 +483,7 @@ border-top: none;
     line-height: 24px;
     padding-left: 0;
     padding: 100px 0;
-}
+    
 
 .logo-first-element-down {
     color: #4D5AE5;
