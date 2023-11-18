@@ -73,7 +73,6 @@ ul {
 .list-nav-menu{
     display: flex;
     gap: 40px;
-    margin-left: 76px;
     
 }
 
@@ -97,6 +96,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 display: flex;
  align-items: center;
+ margin-right: 76px;
 
 }
 
